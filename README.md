@@ -1,4 +1,5 @@
 # Unity Build Scenes Preset
+## [Release 1.0](https://github.com/vhng/UnityBuildScenesPreset/releases)
 
 With this simple tool you can create and load a build settings scenes preset on unity.
 
